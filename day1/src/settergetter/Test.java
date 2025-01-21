@@ -13,6 +13,7 @@ public static void main(String[] args) {
 	System.out.println(s.getName());
 	System.out.println(s.rollno);
 	System.out.println(s.getSalary());
+	System.out.println("main end");
 	
 }
 }

@@ -21,7 +21,7 @@ public static void main(String[] args) {
 	a.setAid(1);
 	a.setAname("rutu");
 	
-	
+	System.out.println("rutu");
 	Person p=new Person();
 	p.setPid(1);
 	p.setPname("rutu");
